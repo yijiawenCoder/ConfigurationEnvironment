@@ -28,3 +28,7 @@ https://download.oracle.com/java/19/archive/jdk-19.0.2_windows-x64_bin.exe
 
 https://download.oracle.com/otn/java/jdk/8u381-b09/8c876547113c4e4aab3c868e9e0ec572/jdk-8u381-windows-x64.exe?AuthParam=1700371837_243c071d5303b6fa3405bf2e65a93c60
 
+5.tomcat下载
+
+https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.83/bin/apache-tomcat-9.0.83-windows-x64.zip
+
