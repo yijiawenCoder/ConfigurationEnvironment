@@ -8,3 +8,7 @@ https://gitee.com/rmbgame/SteamTools/releases/download/3.0.0-rc.2/Steam%20%20_v3
 2.下载git
 
 https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-64-bit.exe
+
+3.下载2023idea
+
+https://download.jetbrains.com.cn/idea/ideaIU-2023.2.5.exe
