@@ -28,6 +28,38 @@ https://download.oracle.com/java/19/archive/jdk-19.0.2_windows-x64_bin.exe
 
 https://download.oracle.com/otn/java/jdk/8u381-b09/8c876547113c4e4aab3c868e9e0ec572/jdk-8u381-windows-x64.exe?AuthParam=1700371837_243c071d5303b6fa3405bf2e65a93c60
 
+4.3配置Java系统环境变量
+
+{
+
+  1.新建系统变量：JAVA_HOME
+路径取jdk路径
+E:\xxx\jdk1.8
+
+
+  2.在系统变量Path后面追加
+%JAVA_HOME%\bin
+%JAVA_HOME%\jre\bin
+3. 添加classpath
+
+
+  CLASSPATH
+
+
+  .;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar
+
+
+4. 验证
+
+
+
+C:\Users\frank>javac -version
+javac 1.8.0_241
+
+}
+
+
+
 5.tomcat下载
 
 https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.83/bin/apache-tomcat-9.0.83-windows-x64.zip
